@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PersonalApp</string>
+    <string name="info">Make a call,
+        Create a calendar event,
+        Select an app,
+        View notification</string>
 </resources>
